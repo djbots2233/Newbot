@@ -91,8 +91,8 @@ START_IMG_URL = getenv(
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://ar-hosting.pages.dev/1757157024879.jpg"
 )
-PLAYLIST_IMG_URL = "https://ar-hosting.pages.dev/1756903107029.jpg"
-STATS_IMG_URL = "https://ar-hosting.pages.dev/1757157008580.jpg"
+PLAYLIST_IMG_URL = "https://ar-hosting.pages.dev/1757157334814.jpg"
+STATS_IMG_URL = "https://ar-hosting.pages.dev/1757157334814.jpg"
 TELEGRAM_AUDIO_URL = "https://ar-hosting.pages.dev/1757157048345.jpg"
 TELEGRAM_VIDEO_URL = "https://ar-hosting.pages.dev/1757157048345.jpg"
 STREAM_IMG_URL = "https://ar-hosting.pages.dev/1757157024879.jpg"
